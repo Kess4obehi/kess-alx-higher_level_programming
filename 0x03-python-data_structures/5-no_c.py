@@ -6,4 +6,4 @@ def no_c(my_string):
         if char not in chars_to_remove:
             modified_string += char
 
-    print(modified_string)
+    return (modified_string)
